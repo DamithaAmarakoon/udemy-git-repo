@@ -2,4 +2,4 @@
 
 This is created for testing purposes.
 
-README.md is written in Markdown language. This file was modified locally.
+This line was modified manually during conflict resolution.
